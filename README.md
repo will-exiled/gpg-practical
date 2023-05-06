@@ -1,5 +1,11 @@
 # gpg-practical
 ### Encrypted communications with GNUPG by EX1L3D, apresentado no dia 06/05/2023 na FLISOL 2023.
+* [GNU Privacy Handbook](https://www.gnupg.org/gph/en/manual/book1.html)
+* [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
+* [Surveillance Self-Defense](https://ssd.eff.org/pt-br/)
+* [Auto-Defesa Org](https://autodefesa.fluxo.info/)
+* [Diceware Passwords](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)
+
 ![Criptografando comunicações com GnuPG](https://user-images.githubusercontent.com/84881879/236617162-6732826b-3078-4e2e-a6b9-020afa756895.png)
 ![Criptografando comunicações com GnuPG (1)](https://user-images.githubusercontent.com/84881879/236617182-1df1038d-a19f-4a55-9d45-d46745d7ce04.png)
 ![Criptografando comunicações com GnuPG (2)](https://user-images.githubusercontent.com/84881879/236617191-af9fb15c-0600-494a-bc59-1c7b8db94172.png)
